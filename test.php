@@ -2,6 +2,7 @@
 
 $test = test();
 echo $test;
+//test
 
 function test()
 {
